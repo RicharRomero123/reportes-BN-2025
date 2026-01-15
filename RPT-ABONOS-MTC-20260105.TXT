@@ -1,0 +1,79 @@
+1BANCO DE LA NACION                                                                                                                              FECHA     05/01/2026
+ SOMP3071                                                                                                                                        HORA        22:20:12
+                                                                                                                                                 PAGINA             1
+                                        REPORTE DE ABONO MTC       REALIZADOS ENTRE 05/01/2026 Y 05/01/2026
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AGEN DESCRIPCION AGENCIA  TICKET       FECHA OPE. HOR.OPE.  TIPO DOCUMENTO   NRO. DOCUMENTO      CLIENTE          NUMERO DE PEDIDO     ID.UNIC.ENTIDAD     IMPORTE
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      CANAL :    CCO=AGENTE MULTIRED
+ 0976 AGENTE MULTIRED      250013542918 05/01/2026 16:31:44  01=DNI           000000060056652 SAAVEDRA JULCA ENNER                      1767047083697            6.70
+ 0976 AGENTE MULTIRED      260000071903 05/01/2026 09:30:49  01=DNI           000000041819744 COPITAN APE A  OSCAR                      1767561653858            6.70
+ 0976 AGENTE MULTIRED      260000081197 05/01/2026 08:29:54  01=DNI           000000020118320 ROJAS CARDENAS  RONA                      1767619628312            6.70
+ 0976 AGENTE MULTIRED      260000081488 05/01/2026 08:33:03  01=DNI           000000042321610 DE JESUS NIMA  PEDRO                      1767619917054           14.70
+ 0976 AGENTE MULTIRED      260000081515 05/01/2026 08:34:29  01=DNI           000000046131855 SANTOS HUAMANI  YOHE                      1767619945436           14.70
+ 0976 AGENTE MULTIRED      260000082729 05/01/2026 08:49:33  01=DNI           000000076783364 GONZALES CARBONEL  L                      1767620949166           14.70
+ 0976 AGENTE MULTIRED      260000084124 05/01/2026 09:55:00  01=DNI           000000070063160 RAMOS RAMOS LUIS ALB                      1767621963525            6.70
+ 0976 AGENTE MULTIRED      260000084940 05/01/2026 09:15:08  01=DNI           000000022314196 VARGAS LOPEZ  GERMAN                      1767622477832            6.70
+ 0976 AGENTE MULTIRED      260000086033 05/01/2026 09:26:58  01=DNI           000000045364606 HUAMAN MORENO YONY V                      1767623151953           14.70
+ 0976 AGENTE MULTIRED      260000086393 05/01/2026 10:01:31  01=DNI           000000041116257 CARDENAS ESTRELLA  P                      1767623349162            6.70
+ 0976 AGENTE MULTIRED      260000087385 05/01/2026 09:50:16  01=DNI           000000002407746 QUISPE HUMPIRI  RUBE                      1767623897115            6.70
+ 0976 AGENTE MULTIRED      260000087450 05/01/2026 09:39:34  01=DNI           000000040358217 DIAZ ATAMARI  OCTAVI                      1767623937896           14.70
+ 0976 AGENTE MULTIRED      260000087647 05/01/2026 09:52:01  01=DNI           000000002542738 GRAGEDA YANA  PABLO                       1767624062575            6.70
+ 0976 AGENTE MULTIRED      260000087775 05/01/2026 09:42:47  01=DNI           000000041118642 VERTIZ GARGUREVICH M                      1767624137411           14.70
+ 0976 AGENTE MULTIRED      260000088568 05/01/2026 09:50:29  01=DNI           000000048568397 CALDERON ARANCIAGA                        1767624553500           14.70
+ 0976 AGENTE MULTIRED      260000088749 05/01/2026 09:51:19  01=DNI           000000046929543 PAUCAR CONDEZO  ANGE                      1767624648499            6.70
+ 0976 AGENTE MULTIRED      260000089318 05/01/2026 09:56:19  01=DNI           000000043966175 AROTINCO GARCIA  GER                      1767624950912           14.70
+ 0976 AGENTE MULTIRED      260000093189 05/01/2026 10:30:04  01=DNI           000000045864366 AHUI GOMEZ  AMELCAR                       1767626968333           14.70
+ 0976 AGENTE MULTIRED      260000093561 05/01/2026 10:32:43  01=DNI           000000008275938 SUBIRIA FRANCO  RICA                      1767627136455           14.70
+ 0976 AGENTE MULTIRED      260000093926 05/01/2026 10:45:07  01=DNI           000000076446993 CAJO PAICO  JUBERT                        1767627289866            6.70
+ 0976 AGENTE MULTIRED      260000093982 05/01/2026 10:35:48  01=DNI           000000027989600 BRICE O CABANILLAS                        1767627318473           14.70
+ 0976 AGENTE MULTIRED      260000096044 05/01/2026 10:51:17  01=DNI           000000008275938 SUBIRIA FRANCO  RICA                      1767628247659            6.70
+ 0976 AGENTE MULTIRED      260000097633 05/01/2026 11:03:51  01=DNI           000000030506931 BARZOLA GUTIERREZ  M                      1767629006329            6.70
+ 0976 AGENTE MULTIRED      260000098894 05/01/2026 11:14:22  01=DNI           000000025219005 CHILLIHUANI HUANCA                        1767629583991            6.70
+ 0976 AGENTE MULTIRED      260000098916 05/01/2026 11:13:37  01=DNI           000000006173622 BALVIN LOZANO  JAIME                      1767629591807           14.70
+ 0976 AGENTE MULTIRED      260000099814 05/01/2026 11:20:29  01=DNI           000000008839594 ACU A GAMBOA  MERCED                      1767630004139           14.70
+ 0976 AGENTE MULTIRED      260000100073 05/01/2026 11:26:37  01=DNI           000000076904253 GARCIA BELLEZA  JOSE                      1767630123396           14.70
+ 0976 AGENTE MULTIRED      260000100712 05/01/2026 11:27:45  01=DNI           000000023271263 RIVERA QUINTO  HUGO                       1767630435624           14.70
+ 0976 AGENTE MULTIRED      260000100784 05/01/2026 11:29:43  01=DNI           000000076729863 VASQUEZ VALERA JACK                       1767630471321            6.70
+ 0976 AGENTE MULTIRED      260000104432 05/01/2026 11:56:40  01=DNI           000000001845034 RAMOS QUISPE  SERGIO                      1767632169635           14.70
+ 0976 AGENTE MULTIRED      260000105558 05/01/2026 13:02:22  01=DNI           000000070308865 GARGATE SUELDO MICHA                      1767632697316            6.70
+ 0976 AGENTE MULTIRED      260000106498 05/01/2026 12:12:34  01=DNI           000000021572020 LOVERA MAVILA  EDGAR                      1767633125405            6.70
+ 0976 AGENTE MULTIRED      260000109773 05/01/2026 12:40:30  01=DNI           000000015983296 ASCA PINEDA  JULIO A                      1767634799145            6.70
+ 0976 AGENTE MULTIRED      260000112089 05/01/2026 13:12:17  01=DNI           000000047759159 QUISPE APAZA ERICK                        1767636036114            6.70
+ 0976 AGENTE MULTIRED      260000122677 05/01/2026 15:03:40  01=DNI           000000071220041 CARO ALANIA JEFFERSO                      1767643252505            6.70
+ 0976 AGENTE MULTIRED      260000127336 05/01/2026 15:50:43  01=DNI           000000046655728 HINOSTROZA ALARCON                        1767645969638            6.70
+ 0976 AGENTE MULTIRED      260000127401 05/01/2026 15:50:09  01=DNI           000000075097613 PATRICIO TOLEDO  CHR                      1767646002763            6.70
+ 0976 AGENTE MULTIRED      260000129014 05/01/2026 16:03:41  01=DNI           000000042889041 ESPINOZA BRICE O  BE                      1767646964932            6.70
+ 0976 AGENTE MULTIRED      260000134016 05/01/2026 16:56:17  01=DNI           000000021124836 ANGLAS SOLANO  JUAN                       1767650128939            6.70
+ 0976 AGENTE MULTIRED      260000134387 05/01/2026 17:00:26  01=DNI           000000072007415 LOPEZ VENTURO  HERLY                      1767650385316            6.70
+ 0976 AGENTE MULTIRED      260000134660 05/01/2026 17:03:44  01=DNI           000000060842247 HUAMAN ARTEAGA  ALIS                      1767650584948            6.70
+ 0976 AGENTE MULTIRED      260000134898 05/01/2026 17:06:38  01=DNI           000000060423689 ESPINOZA HUAMAN  ARI                      1767650763193            6.70
+ 0976 AGENTE MULTIRED      260000135328 05/01/2026 17:12:43  01=DNI           000000070869744 CASTILLON CORONEL  H                      1767651120115            6.70
+ 0976 AGENTE MULTIRED      260000136086 05/01/2026 17:23:50  01=DNI           000000046652983 MERMA VILCA RONALD R                      1767651694385            6.70
+ 0976 AGENTE MULTIRED      260000138795 05/01/2026 18:03:29  01=DNI           000000080204377 MARIN MARTINEZ  JUAN                      1767654056480           14.70
+ 0976 AGENTE MULTIRED      260000141058 05/01/2026 18:42:00  01=DNI           000000043016708 APAZA PACOSONCO VIDA                      1767656421668            6.70
+ 0976 AGENTE MULTIRED      260000141882 05/01/2026 19:03:08  01=DNI           000000042355177 JAVIER CONDORI  DONA                      1767657411270            6.70
+                                                                              SUBTOTAL  :        47         450.90
+      CANAL :    VSA=VISA
+ 0000 OFIC.PRINCIPAL       250013632649 31/12/2025 22:32:25  06=R.U.C.        000010220753579 JOSE PALOMINO PALOMI 996253650199361      1767238304313           11.30
+ 0000 OFIC.PRINCIPAL       260000005176 01/01/2026 21:40:13  01=DNI           000000016400548 COTRINA HUAMAN  ROMU 995260010061343      1767321418840            6.70
+
+1BANCO DE LA NACION                                                                                                                              FECHA     05/01/2026
+ SOMP3071                                                                                                                                        HORA        22:20:12
+                                                                                                                                                 PAGINA             2
+                                        REPORTE DE ABONO MTC       REALIZADOS ENTRE 05/01/2026 Y 05/01/2026
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AGEN DESCRIPCION AGENCIA  TICKET       FECHA OPE. HOR.OPE.  TIPO DOCUMENTO   NRO. DOCUMENTO      CLIENTE          NUMERO DE PEDIDO     ID.UNIC.ENTIDAD     IMPORTE
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 0000 OFIC.PRINCIPAL       260000005388 01/01/2026 22:14:33  01=DNI           000000076042144 LEON VARGAS  ENSO MA 995260010082697      1767323512349           14.70
+ 0000 OFIC.PRINCIPAL       260000005602 01/01/2026 22:46:56  01=DNI           000000029664074 OLAVE MACHACA  ANGEL 996260011312863      1767325505278            6.70
+ 0000 OFIC.PRINCIPAL       260000005621 01/01/2026 22:51:57  01=DNI           000000074714391 AO LIANG  RONG FENG  996260011315928      1767325668331            6.70
+ 0000 OFIC.PRINCIPAL       260000005753 01/01/2026 23:10:28  01=DNI           000000046845751 MARILUZ POICON  MERY 995260010111915      1767326951644           14.70
+ 0000 OFIC.PRINCIPAL       260000005804 01/01/2026 23:21:06  01=DNI           000000029635247 RUIZ DE CASTILLA GUI 995260010116494      1767327535040            6.70
+ 0000 OFIC.PRINCIPAL       260000005887 01/01/2026 23:42:04  01=DNI           000000043260020 ALARCON HERRERA  EDD 995260010125039      1767328554898            6.70
+ 0000 OFIC.PRINCIPAL       260000005907 01/01/2026 23:52:12  01=DNI           000000075366870 CACERES CABRERA  WAL 995260010129011      1767328853661            6.70
+ 0000 OFIC.PRINCIPAL       260000005937 01/01/2026 23:48:18  01=DNI           000000047106903 SAAVEDRA DIAZ  JIMEN 996260011343821      1767329257476            6.70
+                                                                              SUBTOTAL  :        10          87.60
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                          TOTAL GENERAL :        57         538.50
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------

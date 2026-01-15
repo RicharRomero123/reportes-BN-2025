@@ -1,0 +1,44 @@
+1BANCO DE LA NACION                                                                                                                              FECHA     09/01/2026
+ SOMP3071                                                                                                                                        HORA        22:05:34
+                                                                                                                                                 PAGINA             1
+                                        REPORTE DE ABONO MTC       REALIZADOS ENTRE 09/01/2026 Y 09/01/2026
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AGEN DESCRIPCION AGENCIA  TICKET       FECHA OPE. HOR.OPE.  TIPO DOCUMENTO   NRO. DOCUMENTO      CLIENTE          NUMERO DE PEDIDO     ID.UNIC.ENTIDAD     IMPORTE
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      CANAL :    CCO=AGENTE MULTIRED
+ 0976 AGENTE MULTIRED      260000256238 09/01/2026 09:06:53  01=DNI           000000048068235 TICA ORTIZ DE ORUE E                      1767820324692            6.70
+ 0976 AGENTE MULTIRED      260000333889 09/01/2026 11:10:27  01=DNI           000000072241123 MARI O YARINGA O  JE                      1767960668399            6.70
+ 0976 AGENTE MULTIRED      260000338041 09/01/2026 09:01:45  01=DNI           000000041026852 SANTOS TEMPLADERA EL                      1767967257676            6.70
+ 0976 AGENTE MULTIRED      260000338223 09/01/2026 09:04:09  01=DNI           000000060827858 TORRES LOZANO  SANTI                      1767967418202           14.70
+ 0976 AGENTE MULTIRED      260000338540 09/01/2026 09:22:19  01=DNI           000000004010726 SALAZAR SOLANO  TEOD                      1767967711928            6.70
+ 0976 AGENTE MULTIRED      260000339340 09/01/2026 09:20:29  01=DNI           000000075234473 NAKAZAKI RIVERA STEV                      1767968401980            6.70
+ 0976 AGENTE MULTIRED      260000342410 09/01/2026 13:03:49  01=DNI           000000045575555 LAURA FORA  TITO                          1767970723097            6.70
+ 0976 AGENTE MULTIRED      260000342846 09/01/2026 10:05:22  01=DNI           000000027052291 SANCHEZ LOVATO  JORG                      1767971035443           14.70
+ 0976 AGENTE MULTIRED      260000343854 09/01/2026 10:15:39  01=DNI           000000047418989 CAPCHA SANCHEZ JHON                       1767971683182           14.70
+ 0976 AGENTE MULTIRED      260000344443 09/01/2026 10:21:28  01=DNI           000000046651435 TERRONES AGREDA  SOR                      1767972069117           14.70
+ 0976 AGENTE MULTIRED      260000346608 09/01/2026 14:54:20  01=DNI           000000073950286 CONDORI LAGUNA  RODR                      1767973456520            6.70
+ 0976 AGENTE MULTIRED      260000349178 09/01/2026 11:12:25  01=DNI           000000077203313 YALI SANCHEZ  PAUL M                      1767975103394           14.70
+ 0976 AGENTE MULTIRED      260000350579 09/01/2026 11:28:11  01=DNI           000000040119338 AUPA  AUPA RENAN SOL                      1767975984192            6.70
+ 0976 AGENTE MULTIRED      260000351125 09/01/2026 11:33:33  01=DNI           000000006033987 MARTINEZ RAMIREZ  VI                      1767976329374            6.70
+ 0976 AGENTE MULTIRED      260000351728 09/01/2026 11:38:57  01=DNI           000000043700633 MACHUCA CANCHUCAJA                        1767976709583           14.70
+ 0976 AGENTE MULTIRED      260000352031 09/01/2026 11:42:08  01=DNI           000000070424745 LOAYZA MU OZ  HAWER                       1767976891117           14.70
+ 0976 AGENTE MULTIRED      260000356374 09/01/2026 12:30:08  01=DNI           000000080498484 HUARACA RAMOS  WALTE                      1767979732717           14.70
+ 0976 AGENTE MULTIRED      260000356634 09/01/2026 12:32:43  01=DNI           000000031923522 EVANGELISTA FELIX  J                      1767979917346            6.70
+ 0976 AGENTE MULTIRED      260000357546 09/01/2026 12:43:38  01=DNI           000000044172690 RINCON BONILLA  SABI                      1767980588735           14.70
+ 0976 AGENTE MULTIRED      260000360037 09/01/2026 13:20:19  01=DNI           000000032799307 MANTILLA CARBAJAL  C                      1767982781987           14.70
+ 0976 AGENTE MULTIRED      260000360625 09/01/2026 13:29:44  01=DNI           000000042965261 CAMPOS ANICAMA  ELEO                      1767983349936           14.70
+ 0976 AGENTE MULTIRED      260000361628 09/01/2026 14:33:50  06=R.U.C.        000020613552341 MARILUZ SONCCO MAMAN                      1767984345733           10.80
+ 0976 AGENTE MULTIRED      260000362199 09/01/2026 13:55:56  01=DNI           000000070079359 CONDORI PACHAURI JOH                      1767984914558            6.70
+ 0976 AGENTE MULTIRED      260000362957 09/01/2026 14:25:44  01=DNI           000000071230446 DIAZ SILVA  PAUL                          1767985685942           14.70
+ 0976 AGENTE MULTIRED      260000363965 09/01/2026 14:24:50  01=DNI           000000041507715 QUISPE TORRES  EDWIN                      1767986655371           14.70
+ 0976 AGENTE MULTIRED      260000365069 09/01/2026 14:55:18  01=DNI           000000070978127 PEZO MENDOZA  CARMEL                      1767987642399            6.70
+ 0976 AGENTE MULTIRED      260000365702 09/01/2026 14:56:40  01=DNI           000000042235764 AQUINO PE ALOZA  CAR                      1767988183706            6.70
+ 0976 AGENTE MULTIRED      260000366368 09/01/2026 14:59:58  01=DNI           000000008364789 HUAROTO QUISPE  EVER                      1767988768535           14.70
+ 0976 AGENTE MULTIRED      260000367679 09/01/2026 15:24:00  01=DNI           000000028315367 GUTIERREZ CORDERO  E                      1767989851913            6.70
+ 0976 AGENTE MULTIRED      260000368062 09/01/2026 15:22:46  01=DNI           000000006947408 FALCON DOMINGUEZ  FL                      1767990145033            6.70
+ 0976 AGENTE MULTIRED      260000377668 09/01/2026 17:51:34  01=DNI           000000040640565 SOTO BENAVENTE HARRY                      1767999061275            6.70
+ 0976 AGENTE MULTIRED      260000380858 09/01/2026 19:20:53  01=DNI           000000072732943 JEREMIAS VILLENA JHO                      1768004127681            6.70
+                                                                              SUBTOTAL  :        32         330.50
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                          TOTAL GENERAL :        32         330.50
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
